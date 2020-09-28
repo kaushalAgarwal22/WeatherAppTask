@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">WeatherApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="city">
+
+        <item>Bangalore</item>
+        <item>Jaipur</item>
+        <item>Delhi</item>
+        <item>Noida</item>
+        <item>Pune</item>
+        <item>Ahemdabad</item>
+        <item>Ajmer</item>
+    </string-array>
 </resources>
